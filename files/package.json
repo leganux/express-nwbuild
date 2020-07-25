@@ -1,0 +1,15 @@
+{
+  "name": "MyScentJourney",
+  "private": true,
+  "node-main": "./nodejs/app.js",
+  "main": "http://localhost:8000/",
+  "description": "MyScentJourney Product Admin App",
+  "version": "0.1.0",
+  "window": {
+    "frame": true,
+    "toolbar": true,
+    "fullscreen": false,
+    "width": 900,
+    "height": 700
+  }
+}
